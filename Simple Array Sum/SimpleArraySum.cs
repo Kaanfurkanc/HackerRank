@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Simple Array Sum
+namespace SimpleArraySum
 {
     public class Result
     {
