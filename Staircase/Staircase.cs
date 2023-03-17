@@ -17,7 +17,6 @@ namespace Staircase
                     Console.Write("#");
                 Console.WriteLine();
             }
-
         }
     }
 }
