@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\FindTheMedian",
+    "\\Grading Students"
+  ],
+  "SelectedNode": "\\Grading Students\\GradingStudents.cs",
   "PreviewInSolutionExplorer": false
 }
